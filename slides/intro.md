@@ -1,20 +1,20 @@
-#[unclarity.janislejins.com](http://unclarity.janislejins.com.au)
-#[unclarity.mturnbull.com.au](http://unclarity.mturnbull.com.au)
+##[unclarity.janislejins.com](http://unclarity.janislejins.com.au)
+##[unclarity.mturnbull.com.au](http://unclarity.mturnbull.com.au)
 ---
 ###### This presentation is a website. 
 
 ###### It's compatible with every major modern browser.
 
-###### Please follow along on your phone (or just surf the web).
+###### If you want you can follow on your phone.
 ---
 
 
 
-##JANIS LEJINS
+##[JANIS LEJINS (.com)](http://janislejins.com)
 ---
-### [janislejins.com](http://janislejins.com)
+#### [Follow me on Instagram: /janislejins](http://instagram.com/janislejins)
 ---
-#### [Instagram: /janislejins](http://instagram.com/janislejins)
+#### (Download this presentation from [my github](https://github.com/janislejins/pointofunclarity))
 ---
 <div class="social-icons">
 <ul style="padding-left:0 !important; display:inline-flex;">
@@ -40,4 +40,4 @@
 
 # Made with [Reveal.js](http://reveal.js)
 ## using a markdown [boilerplate](https://github.com/htanjo/reveal-boilerplate)
-### (this presentation is also hosted on [my github](http://github.com/janislejins))
+### (this presentation is also hosted on [my github](https://github.com/janislejins/pointofunclarity))
