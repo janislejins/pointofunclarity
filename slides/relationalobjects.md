@@ -110,6 +110,6 @@ foreach ($response_2->{data} as $x) {
 </div>
 
 
-
+<!-- 
 <iframe id="vimeo_player" src="https://player.vimeo.com/video/151368279?autoplay=0&loop=0" width="100%" height="400px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<h1 style="font-size: 2vw;"> Relational Object #3 - We Got Him. (The Head of Holofernes) - Video Documentation </h1>
+<h1 style="font-size: 2vw;"> Relational Object #3 - We Got Him. (The Head of Holofernes) - Video Documentation </h1> -->

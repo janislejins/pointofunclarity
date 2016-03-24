@@ -4,7 +4,7 @@
 
 
 
-#### In works which involve a program learning (or at least independantly aquiesing stuff), synthesising and expressing knowledge what do we define as the point, or process, of 'art'
+#### In works which involve a program learning (or at least independently acquiescing stuff), synthesising and expressing knowledge what do we define as the point, or process, of 'art'
 - <small>Can we express not-art projects like AlphaGo as art? If so what's the artwork - is it the performance of the game, the physical program, the trace of the program or the whole process etc</small>
 - <small>Can we have sub-arts with in a greater artwork or projects i.e. Can I have an artwork which is at once a website, an object, an installation, a performance etc - how does one sell this?</small>
 - <small>Who is the author here? The programmers of AlphaGo, the program, the guy who plays it or all three</small>
