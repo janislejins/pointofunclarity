@@ -100,6 +100,10 @@ Output data to columns (JS, USB via Local Websocket and webpage)
 
 
 
+<iframe width="100%" height="600" src="http://doricstacks.janislejins.com"></iframe><p style="font-size:0.4em; text-align:left;"><strong><em>Doric Stacks #1 - #16 ( Web interface ) </em>, 2015</strong> Web Application - view at <a href="http://doricstacks.janislejins.com" target="_blank"> doricstacks.janislejins.com </a></p>
+
+
+
 <div id="wrap">
     <article>
        <img src="http://janislejins.com/images/1aX_AWZRa_RlvZNJxzWxMUMhP3A=/28/original/" style="width:80%; max-height:auto;"></img>
