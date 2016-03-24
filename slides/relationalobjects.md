@@ -19,10 +19,6 @@
 
 
 
-#Data +
-
-
-
 <div id="wrap">
     <article>
        <img src="http://janislejins.com/images/jtCXht9co2KfPIyBH7usVUlQ1Kw=/280/width-1920/" style="width:80%; max-height:auto;"></img>
@@ -33,10 +29,6 @@
 This work intercepts tweets directed at pop-star Justin Bieber and prints the messages out onto receipt paper live in 12 point font. The work uses almost a kilometre of paper every day. <a href="http://janislejins.com/justinbieber/" target="_blank"> more info - http://janislejins.com/justinbieber/</a> </caption></p>
     </aside>
 </div>
-
-
-
-#'Art' object
 
 
 
